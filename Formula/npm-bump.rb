@@ -1,8 +1,8 @@
 class NpmBump < Formula
   desc "It's a bash script for bump npm packages"
   homepage "https://github.com/VincentHardouin/npm-bump"
-  url "https://github.com/VincentHardouin/npm-bump/archive/v0.7.1.tar.gz"
-  sha256 "9040794368411fd452ea34292d768098952cc094f54e74369be2449430793112"
+  url "https://github.com/VincentHardouin/npm-bump/archive/v0.7.2.tar.gz"
+  sha256 "364d3b7d5ac3eea2a9791fc3d59aa2398ff878100823157ebd7508395c26c10e"
   license "AGPL-3.0-or-later"
 
   def install
